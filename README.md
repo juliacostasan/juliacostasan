@@ -23,7 +23,7 @@
 </div>
 
 <!-- ===================== SOBRE MIM ===================== -->
-###&nbsp; sobre mim
+&nbsp; sobre mim
 
 <table>
 <tr>
@@ -37,12 +37,6 @@ Gosto de aprender com calma, testar coisas novas e melhorar aos poucos — sem p
 &nbsp;&nbsp;&nbsp; gosto de interfaces simples e bem pensadas
 &nbsp;&nbsp;&nbsp; PT-BR nativo · inglês intermediário · espanhol básico
 
-</td>
-<td width="40%" align="center">
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="100%">
-</td>
-</tr>
-</table>
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/lines-purple.gif" width="80%">
