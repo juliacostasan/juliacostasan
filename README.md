@@ -1,101 +1,126 @@
+<a name="readme-top"></a>
 <div align="center">
 
 <!-- ===================== BANNER PRINCIPAL ===================== -->
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:FFE4EC,50:FBCFE8,100:F5D0FE&height=200&section=header&text=Hello,%20World&fontSize=42&fontColor=6B2C4C&fontAlignY=45&animation=fadeIn&desc=Estudante%20de%20Engenharia%20de%20Software&descAlignY=65&descSize=15&descColor=7C4A63" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD6E8,50:FBB6D9,100:F5A3D0&height=220&section=header&text=Hello,%20World&fontSize=48&fontColor=FFFFFF&fontAlignY=42&animation=fadeIn&desc=Julia%20Costa%20%7C%20Engenharia%20de%20Software&descAlignY=62&descSize=18&descColor=FFF0F7" width="100%"/>
 
-<!-- ===================== TYPING ANIMATION ===================== -->
-<a href="#">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=20&duration=3000&pause=1000&color=B85C8A&center=true&vCenter=true&width=560&lines=Ol%C3%A1%2C+seja+bem-vindo(a);Estudante+de+Engenharia+de+Software;Aprendendo%2C+construindo+e+evoluindo" alt="Typing SVG" />
-</a>
+<img src="https://img.shields.io/badge/Engenharia%20de%20Software-2B0B1F?style=flat-square&labelColor=FF69B4&color=2B0B1F" alt="curso"/>
+<img src="https://img.shields.io/badge/Centro%20Universit%C3%A1rio%20Eniac-2B0B1F?style=flat-square&labelColor=FF69B4&color=2B0B1F" alt="instituicao"/>
+<img src="https://img.shields.io/badge/Guarulhos%2C%20SP-2B0B1F?style=flat-square&labelColor=FF69B4&color=2B0B1F" alt="localizacao"/>
 
-<br/>
+<br/><br/>
 
-<img src="https://img.shields.io/badge/visitas-bem--vindo(a)-FBCFE8?style=flat-square&labelColor=fff0f5" alt="visits"/>
-<img src="https://img.shields.io/badge/status-em%20constru%C3%A7%C3%A3o-F5D0FE?style=flat-square&labelColor=fff0f5" alt="status"/>
-<img src="https://img.shields.io/badge/localiza%C3%A7%C3%A3o-Guarulhos%2C%20BR-FADCE9?style=flat-square&labelColor=fff0f5" alt="location"/>
+<!-- ===================== NAVEGACAO ===================== -->
+<a href="#sobre"><img src="https://img.shields.io/badge/Sobre-FF69B4?style=flat-square"/></a>
+<a href="#stack"><img src="https://img.shields.io/badge/Stack-FF69B4?style=flat-square"/></a>
+<a href="#ferramentas"><img src="https://img.shields.io/badge/Ferramentas-FF69B4?style=flat-square"/></a>
+<a href="#projetos"><img src="https://img.shields.io/badge/Projetos-FF69B4?style=flat-square"/></a>
+<a href="#contato"><img src="https://img.shields.io/badge/Contato-FF69B4?style=flat-square"/></a>
 
 </div>
 
 <br/>
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/lines-purple.gif" width="80%">
-</div>
+<a name="sobre"></a>
+<!-- ===================== SOBRE ===================== -->
+## Sobre
 
-<!-- ===================== SOBRE MIM ===================== -->
-### Sobre mim
+Estudante de Engenharia de Software no Centro Universitário Eniac, com foco em banco de dados, lógica de programação e desenvolvimento de soluções bem estruturadas. Interesse em unir teoria e prática por meio de projetos consistentes, código organizado e boas práticas de engenharia.
 
-<table>
+<table width="100%">
 <tr>
-<td width="60%" valign="top">
+<td width="33%" align="center"><b>Formação</b><br/><sub>Engenharia de Software<br/>Centro Universitário Eniac</sub></td>
+<td width="33%" align="center"><b>Área de interesse</b><br/><sub>Banco de dados e<br/>lógica de programação</sub></td>
+<td width="33%" align="center"><b>Idiomas</b><br/><sub>Inglês — intermediário<br/>Espanhol — básico</sub></td>
+</tr>
+</table>
 
-Sou estudante de Engenharia de Software no Centro Universitário Eniac, em Guarulhos/SP, com foco em banco de dados, lógica de programação e desenvolvimento de soluções bem estruturadas.
+<details>
+<summary><b>Objetivo profissional</b></summary>
+<br/>
 
-Busco constante evolução técnica, unindo teoria e prática por meio de projetos pessoais e estudo contínuo, com atenção à qualidade e à organização do código.
+Consolidar conhecimento em desenvolvimento de software e banco de dados, com foco em construir soluções sólidas, legíveis e escaláveis — unindo fundamentos de engenharia à resolução de problemas reais.
 
+</details>
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/lines-purple.gif" width="80%">
-</div>
+<div align="right"><a href="#readme-top"><sub>voltar ao topo ↑</sub></a></div>
 
-<!-- ===================== TECH STACK ===================== -->
-### Tech Stack
+<br/>
 
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-FADCE9?style=for-the-badge&logo=python&logoColor=6B2C4C)
-![PHP](https://img.shields.io/badge/PHP-F5D0FE?style=for-the-badge&logo=php&logoColor=6B2C4C)
-![C](https://img.shields.io/badge/C-FBCFE8?style=for-the-badge&logo=c&logoColor=6B2C4C)
-![HTML5](https://img.shields.io/badge/HTML5-FADCE9?style=for-the-badge&logo=html5&logoColor=6B2C4C)
-![JavaScript](https://img.shields.io/badge/JavaScript-F5D0FE?style=for-the-badge&logo=javascript&logoColor=6B2C4C)
-![MySQL](https://img.shields.io/badge/SQL-FBCFE8?style=for-the-badge&logo=mysql&logoColor=6B2C4C)
-
-</div>
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/lines-purple.gif" width="80%">
-</div>
-
-<!-- ===================== FERRAMENTAS ===================== -->
-### Ferramentas do dia a dia
+<a name="stack"></a>
+<!-- ===================== STACK ===================== -->
+## Stack
 
 <div align="center">
 
-![VS Code](https://img.shields.io/badge/VS%20Code-FADCE9?style=for-the-badge&logo=visualstudiocode&logoColor=6B2C4C)
-![Git](https://img.shields.io/badge/Git-F5D0FE?style=for-the-badge&logo=git&logoColor=6B2C4C)
-![GitHub](https://img.shields.io/badge/GitHub-FBCFE8?style=for-the-badge&logo=github&logoColor=6B2C4C)
-![Notion](https://img.shields.io/badge/Notion-FADCE9?style=for-the-badge&logo=notion&logoColor=6B2C4C)
-![Figma](https://img.shields.io/badge/Figma-F5D0FE?style=for-the-badge&logo=figma&logoColor=6B2C4C)
+<img src="https://img.shields.io/badge/%20-FF69B4?style=flat&logo=python&logoColor=white" width="60" height="60"/>&nbsp;
+<img src="https://img.shields.io/badge/%20-FF69B4?style=flat&logo=php&logoColor=white" width="60" height="60"/>&nbsp;
+<img src="https://img.shields.io/badge/%20-FF69B4?style=flat&logo=c&logoColor=white" width="60" height="60"/>&nbsp;
+<img src="https://img.shields.io/badge/%20-FF69B4?style=flat&logo=html5&logoColor=white" width="60" height="60"/>&nbsp;
+<img src="https://img.shields.io/badge/%20-FF69B4?style=flat&logo=javascript&logoColor=white" width="60" height="60"/>&nbsp;
+<img src="https://img.shields.io/badge/%20-FF69B4?style=flat&logo=mysql&logoColor=white" width="60" height="60"/>
 
 </div>
 
+<div align="right"><a href="#readme-top"><sub>voltar ao topo ↑</sub></a></div>
+
+<br/>
+
+<a name="ferramentas"></a>
+## Ferramentas
+
 <div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/lines-purple.gif" width="80%">
+
+<img src="https://img.shields.io/badge/%20-FF69B4?style=flat&logo=git&logoColor=white" width="60" height="60"/>&nbsp;
+<img src="https://img.shields.io/badge/%20-FF69B4?style=flat&logo=github&logoColor=white" width="60" height="60"/>&nbsp;
+<img src="https://img.shields.io/badge/%20-FF69B4?style=flat&logo=xampp&logoColor=white" width="60" height="60"/>&nbsp;
+<img src="https://img.shields.io/badge/%20-FF69B4?style=flat&logo=notion&logoColor=white" width="60" height="60"/>&nbsp;
+<img src="https://img.shields.io/badge/%20-FF69B4?style=flat&logo=figma&logoColor=white" width="60" height="60"/>
+
 </div>
 
-<!-- ===================== TROPHIES ===================== -->
+<div align="right"><a href="#readme-top"><sub>voltar ao topo ↑</sub></a></div>
 
-<!-- ===================== REDES SOCIAIS ===================== -->
-### Redes sociais
+<br/>
+
+<a name="projetos"></a>
+<!-- ===================== PROJETOS ===================== -->
+## Projetos em destaque
+
+<!-- Substitua os títulos, descrições e links abaixo pelos seus repositórios reais. -->
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+<b> Golden Guitar</b><br/>
+<sub>Nome: Loja de Guitarras — Trabalho de Conclusão de Curso
+Descrição: sistema de e-commerce com cadastro/listagem de produtos, carrinho de compras e banco de dados
+Tecnologias: ícones de HTML5, CSS3, JavaScript, PHP e MySQL, no mesmo estilo quadrado rosa do resto do README</sub><br/><br/>
+<a href="#"><img src="https://img.shields.io/badge/Ver%20reposit%C3%B3rio-2B0B1F?style=flat-square&logo=github&logoColor=FF69B4"/></a>
+</td>
+</table>
+
+<div align="right"><a href="#readme-top"><sub>voltar ao topo ↑</sub></a></div>
+
+<br/>
+
+<a name="contato"></a>
+<!-- ===================== CONTATO ===================== -->
+## Contato
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/julia-costa-67ab30302?utm_source=share_via&utm_content=profile&utm_medium=member_ios" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-FADCE9?style=for-the-badge&logo=linkedin&logoColor=6B2C4C" />
+<a href="[https://www.linkedin.com/in/julia-costa-67ab30302](https://www.linkedin.com/in/julia-costa-67ab30302?utm_source=share_via&utm_content=profile&utm_medium=member_ios)" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-2B0B1F?style=for-the-badge&logo=linkedin&logoColor=FF69B4"/>
 </a>
 <a href="mailto:costajuliasan@gmail.com">
-  <img src="https://img.shields.io/badge/Email-F5D0FE?style=for-the-badge&logo=gmail&logoColor=6B2C4C" />
+  <img src="https://img.shields.io/badge/Email-2B0B1F?style=for-the-badge&logo=gmail&logoColor=FF69B4"/>
 </a>
 
 </div>
 
 <br/>
 
-<!-- ===================== RODAPÉ ===================== -->
 <div align="center">
-
-<sub>Obrigado(a) pela visita. Feito com carinho, um commit de cada vez.</sub>
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:F5D0FE,50:FBCFE8,100:FFE4EC&height=90&section=footer" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F5A3D0,50:FBB6D9,100:FFD6E8&height=100&section=footer" width="100%"/>
 </div>
